@@ -6,7 +6,7 @@ Validation for CNPJ Number input.
 ## Usage
 
 ```javascript
-var cnpjInput = getElementById(#contact-cnpj);
+var cnpjInput = getElementById('contact-cnpj');
 isValid.cnpj(cnpjInput);
 ```
 
